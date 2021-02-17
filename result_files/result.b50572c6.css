@@ -69,10 +69,10 @@
   font-size: 30px;
 }
 [data-dpr="2"] .result-wrap[data-v-97f79f28] {
-  font-size: 30px;
+  font-size: 20px;
 }
 [data-dpr="3"] .result-wrap[data-v-97f79f28] {
-  font-size: 60px;
+  font-size: 40px;
 }
 .result-wrap .greenBg[data-v-97f79f28] {
   background: url(../result_files/img_bg@3x.0055ee09.0055ee09.png) no-repeat;
