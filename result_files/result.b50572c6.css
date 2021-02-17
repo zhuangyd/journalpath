@@ -1,7 +1,7 @@
 .footer-comp[data-v-075eaec1] {
   color: #94949e;
   width: 6.4rem;
-  padding: 2.50rem 0;
+  padding: 0.35rem 0;
   margin: 0 auto;
 }
 .footer-comp .powered-by-title[data-v-075eaec1] {
@@ -88,7 +88,7 @@
   background-position-y: -0.5rem;
 }
 .result-wrap .bg-pic1[data-v-97f79f28] {
-  background-size: 100% 100%;
+  background-size: 100% 120%;
   margin-top: -0.45rem;
   position: relative;
 }
